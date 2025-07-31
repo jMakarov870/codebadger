@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "🦡 codebadger is a containerized Model Context Protocol (MCP) server that gives AI agents and LLMs deep, queryable access to a codebase's structure and data flow through Joern Code Property Graphs (CPGs)."
 requires-python = ">=3.10"
 # match the style used in the rest of the module
+# match the style used in the rest of the module
